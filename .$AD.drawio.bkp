@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tIkmAx5Ykdk4Ek5YBx7z-1" value="&lt;div&gt;End-to-end Autonomous Driving:&lt;/div&gt;&lt;div&gt;Challenges and Frontiers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tIkmAx5Ykdk4Ek5YBx7z-1" value="&lt;div&gt;End-to-end Autonomous Driving:&lt;/div&gt;&lt;div&gt;Challenges and Frontiers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="180" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzjMi6RPFgiLGXpbpgBT-1" value="摘要：&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="690" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

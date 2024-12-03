@@ -1,0 +1,19 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="YKOWa8AkC8GLVP0Zvr6e">
+    <mxGraphModel dx="894" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tIkmAx5Ykdk4Ek5YBx7z-1" value="&lt;div&gt;End-to-end Autonomous Driving:&lt;/div&gt;&lt;div&gt;Challenges and Frontiers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzjMi6RPFgiLGXpbpgBT-1" value="摘要：&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;端到端的算法框架使用原始传感器输入来产生车辆运动轨迹，而不是专注于像检测和运动预测这样的单个任务。相比于模块化流水线，端到端系统受益于感知和规划的联合特征优化。基于当前的大规模数据集、闭环评估、以及在具有挑战的场景中的适应需求，使得端到端网络发展蓬勃。本文从动机、路线图、方法论、挑战以及未来趋势进行分析，在挑战方面总结了多模态挑战、可解释性、因果混淆、鲁棒性以及世界模型等。除此之外，还描述了基础模型和视觉预训练的优势以及如何将这些技巧融入端到端。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="70" y="280" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a0ZYfSv0xHDHFaSKEjFQ-1" value="1. 介绍&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;传统的自动驾驶系统采取了模块化的设计策略，模块化流水线的基于复杂规则的规划模块难以有效应对道路上的大量场景，所以需要利用大量的数据和规划学习方法来作为替代。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;定义能够将原始传感器数据作为输入并生成规划或者更低级的控制这一类可全微分项目称为端到端系统。端到端系统中的模块之间 传递特征表征，而不是手工设计的bbox或者车辆路径，同时能够进行联合全局优化。端到端的方法可以大致分为模仿学习和强化学习。首先描述了动机和路线图，接着是简要的回顾方法论，然后是闭环和开环评估的数据集和基准，接着是一系列挑战，包括可解释性、泛化性、世界模型和因果混淆等。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="690" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
